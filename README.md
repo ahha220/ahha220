@@ -2,6 +2,15 @@
 
 Hi! I'm currently working on a personal portfolio, but for now, here's some of my favourite video projects I've worked on. Stay tuned for when a website comes out showcasing some UI/UX designs, graphics, and more videos. 
 
+--- 
+AI-DE
+---
+Here's the design to the project that won me Top 10 for DECA Ontario! Pretty nice (the web-app is a little janky right now, but I'm hoping to re-program it as a future project and make it more functional! + add some frameworks too and learn a bit more about front-end harhar.) 
+
+<img width="1440" height="1080" alt="Image" src="https://github.com/user-attachments/assets/8e59748b-16d7-4616-8fe4-bb22c567fff7" />
+<img width="1440" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e6bd0c47-42eb-4a53-b7a3-0b7f5b3bee4e" />
+<img width="1440" height="1080" alt="Image" src="https://github.com/user-attachments/assets/4b3fd96f-fdd3-4582-bf4b-fb68c9804076" />
+
 ---
 Power!
 ---
@@ -29,14 +38,4 @@ Took some inspiration from New Jeans here.
 
 https://github.com/user-attachments/assets/4c8db17f-1edb-4ee3-a412-73b1b9255452
 
---- 
-AI-DE
----
-Here's the design to the project that won me Top 10 for DECA Ontario! Pretty nice (the web-app is a little janky right now, but I'm hoping to re-program it as a future project and make it more functional! + add some frameworks too and learn a bit more about front-end harhar.) 
-
-<img width="1440" height="1080" alt="Image" src="https://github.com/user-attachments/assets/8e59748b-16d7-4616-8fe4-bb22c567fff7" />
-<img width="1440" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e6bd0c47-42eb-4a53-b7a3-0b7f5b3bee4e" />
-<img width="1440" height="1080" alt="Image" src="https://github.com/user-attachments/assets/4b3fd96f-fdd3-4582-bf4b-fb68c9804076" />
-
-
-I love creativity, and I'm striving to learn more about front-end to combine these two. More creativity projects coming too. Dabble in some hardware too. 
+I love creativity, and I'm striving to learn more about front-end to combine these two. More creativity projects coming too. I want to dabble in some hardware/content creation too. 
